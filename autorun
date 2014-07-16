@@ -1,0 +1,4 @@
+#!/bin/bash
+# Skrypt do uruchamiania aplikacji
+echo "Uruchamiam Player.py..."
+sudo python /home/pi/player2.py &
